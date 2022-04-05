@@ -1,8 +1,22 @@
-h1{
-    text-align: center;
+body
+{
+    background-color: rgb(210, 248, 235);;
 }
-img{  
+h1
+{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+img
+{  
     border: 10px solid gray;  
     border-radius:5px;  
-    padding:10px;  
-    }  
+    margin-left:320px;  
+}  
+
+p
+{
+   
+    font-size: 25px;
+}
